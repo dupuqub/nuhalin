@@ -2,16 +2,15 @@
 # coding=UTF-8
 
 symbols = "012345678!@#$%^&"
-symbols += ")(][}{<>"
-symbols += "'\"`~"
-symbols += "+*-/="
-symbols += ",.?"
+symbols += ")(][}{<>'\""
+symbols += "+*9-/_=:"
+symbols += "?,."
 symbols += "ieéaáoóu"
 symbols += "IEÉAÁOÓU"
-symbols += "fvszxj"
-symbols += "FVSZXJ"
 symbols += "bpdtgk"
 symbols += "BPDTGK"
+symbols += "fvszxj"
+symbols += "FVSZXJ"
 symbols += "hylrnm"
 symbols += "HYLRNM"
 
