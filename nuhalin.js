@@ -82,12 +82,13 @@ const dictionary =
   [`=`, ``],
   [`:`, ``],
 
-  [`-`, `un`],
-  [`+`, `ni`],
-  [`/`, `unU`],
-  [`*`, `Ini`],
-  [`--`, `Unun`],
-  [`++`, `ninI`],
+  [`-`, `Ini`],
+  [`/`, ``],
+  [`_`, ``],
+
+  [`+`, `unU`],
+  [`*`, ``],
+  [`9`, ``],
 
   //............................................................................
   // [nuhAlin, English]
@@ -107,12 +108,13 @@ const dictionary =
   [`e`, `maybe`],
   [`i`, `yes`],
 
-  [`un`, `addition or and`],
-  [`ni`, `subtraction`],
-  [`unU`, `division`],
-  [`Ini`, `multiplication`],
-  [`Unun`, `root`],
-  [`ninI`, `potence`],
+  [``, `subtraction`],
+  [``, `division`],
+  [``, `root`],
+
+  [``, `addition`],
+  [``, `multiplication`],
+  [``, `potenciation`],
 
   [`brokt`, `constant`],
   [`djeyf`, `relative`],
